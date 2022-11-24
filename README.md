@@ -179,7 +179,7 @@ Please cite our paper if you use StrokeNet in your work:
  author = {Wang, Zhijun and Liu, Xuebo and Zhang, Min},
  booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
  title = {Breaking the Representation Bottleneck of Chinese Characters: Neural Machine Translation with Stroke Sequence Modeling},
- url = {}, 
+ url = {https://arxiv.org/abs/2211.12781}, 
  year = {2022}
 }
 ```
