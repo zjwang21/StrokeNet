@@ -70,6 +70,8 @@ pip install --editable ./
 
 ### Preprocessing
 #### Data
+For convenience, we provide the preprocessed StrokeNet version of WMT17 Zh-En data: [WMT17-StrokeNet](https://huggingface.co/datasets/Ashton2000/wmt17-strokenet)
+
 All example scripts are based on the NIST Zh-En.
 All the bash scripts are sufficiently annotated for reference.
 
